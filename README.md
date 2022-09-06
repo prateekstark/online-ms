@@ -1,13 +1,13 @@
 # Online MS
 
-This course contains a link to the courses and their respective assignments which I will be completing for my online MS degree.
+This repository contains links to some cool courses for your AI learning journey.
 
 ## List of Courses
-- [Linear Algebra](https://youtu.be/ZK3O402wf1c?list=PL49CF3715CB9EF31D) (Ongoing)
-- [Probability Theory and Stochastic Processes](https://nptel.ac.in/courses/111/102/111102111/) (Ongoing)
-- [Advanced Probability](https://www.youtube.com/watch?v=_FTYrQtrDps&list=PLbMVogVj5nJQqGHrpAloTec_lOKsG-foc) (Ongoing)
+- [Linear Algebra](https://youtu.be/ZK3O402wf1c?list=PL49CF3715CB9EF31D)
+- [Probability Theory and Stochastic Processes](https://youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [Advanced Probability](https://www.youtube.com/watch?v=_FTYrQtrDps&list=PLbMVogVj5nJQqGHrpAloTec_lOKsG-foc)
 - [Convex Optimization](https://www.youtube.com/watch?v=9hToSoZXM9s&list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU)
-- [Machine Learning](https://www.youtube.com/watch?v=Z66_2_VG_k8&list=PLbMVogVj5nJSlpmy0ni_5-RgbseafOViy) (Ongoing)
+- [Machine Learning](https://www.youtube.com/watch?v=Z66_2_VG_k8&list=PLbMVogVj5nJSlpmy0ni_5-RgbseafOViy)
 - [Deep Learning I](https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB)
 - [Deep Learning II](https://www.youtube.com/watch?v=gYayCG6YyO8&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=26)
 - [Probabilistic Machine Learning](https://www.youtube.com/watch?v=jFcYpBOeCOQ&list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
